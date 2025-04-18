@@ -1,5 +1,4 @@
 local Placeid = game.PlaceId
-_G.Key = "Dev by tarzzth"
 if _G.Key == "Dev by tarzzth" then
     if Placeid ~= 14807448145 then
         loadstring(game:HttpGet("https://raw.githubusercontent.com/Tarzzth/Tool-Developer/refs/heads/main/main.lua", true))()
